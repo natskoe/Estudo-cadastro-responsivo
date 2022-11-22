@@ -1,4 +1,4 @@
-<h1>✿.｡.:* ☆:**:. FORMULÁRIO DE CADASTRO RESPONSIVO .:**:☆ *:.｡.✿</h1>
+<h1>✿.｡.:**:. FORMULÁRIO DE CADASTRO RESPONSIVO .:**.｡.✿</h1>
 
 ![image](https://user-images.githubusercontent.com/110753197/203440126-f7078df9-bac4-400c-a7c1-15033a627da6.png)
 
@@ -8,7 +8,7 @@ ao processo de responsividade.</h2>
 
 <h3> Link do vídeo utilizado como base para o estudo de caso: https://youtu.be/zWw0npNDkVM (Larissa Kich).</h3>
 
-<h1>✿.｡.:* ☆:**:. COMO ABRIR E TESTAR A RECURISIVIDADE .:**:☆ *:.｡.✿</h1>
+<h1>✿.｡.:**: COMO ABRIR E TESTAR A RECURISIVIDADE .:**.｡.✿</h1>
 <ol>
 
   <li><h2>Baixar o repositório</h2></li>
