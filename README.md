@@ -1,6 +1,6 @@
 <h2>✿.｡.:**:. FORMULÁRIO DE CADASTRO RESPONSIVO .:**.｡.✿</h2>
 
-![image](https://user-images.githubusercontent.com/110753197/203440126-f7078df9-bac4-400c-a7c1-15033a627da6.png)
+![image](https://user-images.githubusercontent.com/110753197/203441154-358c86b9-2dc4-4f4c-9d4f-4ea5debf0602.png)
 
 <h3>Com o objetivo de aprofundar meu conhecimento em html e css, utilizei como base de conhecimento o vídeo - link na parte inferior - da programadora 
 Larissa Kich, e realizei o projeto de um formulário de cadastro responsivo, com a introdução de uma imagem relacionada ao tema e pensando em como adequá-la
